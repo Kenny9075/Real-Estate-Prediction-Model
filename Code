@@ -217,3 +217,7 @@ clf.fit(X_train, y_train)
 print('After Gradient Boosting Accuracy Score: ', "{:.4f}".format(clf.score(X_test, y_test)))
 print(find_best_model_using_gridsearchcv(X, y).head())
 print(predict_price(clf, 4,3.5, 3765, 30062))
+
+
+
+bcfhdsjk gcwfuqirqeylfwolgfeo;qguwoilgy
